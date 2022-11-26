@@ -6,7 +6,7 @@
 
 <!-- please enter link to site preview here -->
 
-[Project live site]()
+[Project live site](https://estorelabs.github.io/RC---220902-LO-365-Revitalift-Laser-x-3-RENO-Night-ROSSMANN/Portals/0/rich-content/loreal/ean.html)
 
 ## PROJECT PREVIEW
 
@@ -14,7 +14,7 @@
 
 ### LINKS TO DESIGNS (in .xd or .psd)
 
-[.psd link](https://drive.google.com/drive/folders/1WNiA0j9D6Bn2ALtEAIgv1_nzpSOon0Fe)
+[.psd link](https://drive.google.com/drive/folders/1Cztpi2u8vIS5MaqBJEGInU2ft4Ccte3a)
 
 <!-- please enter link to preview designs -->
 

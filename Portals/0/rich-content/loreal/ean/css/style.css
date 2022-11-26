@@ -1,40 +1,56 @@
 /* Gotham Black */
 @font-face {
-  font-family: "Gotham Black";
-  src: url("fonts/Gotham-Black/Gotham-Black-Regular.eot");
-  src: url("fonts/Gotham-Black/Gotham-Black-Regular.eot?#iefix") format("embedded-opentype"), url("fonts/Gotham-Black/Gotham-Black-Regular.woff2") format("woff2"), url("fonts/Gotham-Black/Gotham-Black-Regular.woff") format("woff");
+  font-family: 'Gotham Black';
+  src: url('../fonts/Gotham-Black/Gotham-Black-Regular.eot');
+  src: url('../fonts/Gotham-Black/Gotham-Black-Regular.eot?#iefix')
+      format('embedded-opentype'),
+    url('../fonts/Gotham-Black/Gotham-Black-Regular.woff2') format('woff2'),
+    url('../fonts/Gotham-Black/Gotham-Black-Regular.woff') format('woff');
   font-weight: 400;
   font-style: normal;
 }
 /* Gotham Black Italic */
 @font-face {
-  font-family: "Gotham Black Italic";
-  src: url("fonts/Gotham-Black-Italic/Gotham-Black-Italic.eot");
-  src: url("fonts/Gotham-Black-Italic/Gotham-Black-Italic.eot?#iefix") format("embedded-opentype"), url("fonts/Gotham-Black-Italic/Gotham-Black-Italic.woff2") format("woff2"), url("fonts/Gotham-Black-Italic/Gotham-Black-Italic.woff") format("woff");
+  font-family: 'Gotham Black Italic';
+  src: url('../fonts/Gotham-Black-Italic/Gotham-Black-Italic.eot');
+  src: url('../fonts/Gotham-Black-Italic/Gotham-Black-Italic.eot?#iefix')
+      format('embedded-opentype'),
+    url('../fonts/Gotham-Black-Italic/Gotham-Black-Italic.woff2')
+      format('woff2'),
+    url('../fonts/Gotham-Black-Italic/Gotham-Black-Italic.woff') format('woff');
   font-weight: 400;
   font-style: normal;
 }
 /* Gotham Bold */
 @font-face {
-  font-family: "Gotham Bold";
-  src: url("fonts/Gotham-Bold/Gotham-Bold.eot");
-  src: url("fonts/Gotham-Bold/Gotham-Bold.eot?#iefix") format("embedded-opentype"), url("fonts/Gotham-Bold/Gotham-Bold.woff2") format("woff2"), url("fonts/Gotham-Bold/Gotham-Bold.woff") format("woff");
+  font-family: 'Gotham Bold';
+  src: url('../fonts/Gotham-Bold/Gotham-Bold.eot');
+  src: url('../fonts/Gotham-Bold/Gotham-Bold.eot?#iefix')
+      format('embedded-opentype'),
+    url('../fonts/Gotham-Bold/Gotham-Bold.woff2') format('woff2'),
+    url('../fonts/Gotham-Bold/Gotham-Bold.woff') format('woff');
   font-weight: 700;
   font-style: normal;
 }
 /* Gotham Book */
 @font-face {
-  font-family: "Gotham Book";
-  src: url("fonts/Gotham-Book/Gotham-Book-Regular.eot");
-  src: url("fonts/Gotham-Book/Gotham-Book-Regular.eot?#iefix") format("embedded-opentype"), url("fonts/Gotham-Book/Gotham-Book-Regular.woff2") format("woff2"), url("fonts/Gotham-Book/Gotham-Book-Regular.woff") format("woff");
+  font-family: 'Gotham Book';
+  src: url('../fonts/Gotham-Book/Gotham-Book-Regular.eot');
+  src: url('../fonts/Gotham-Book/Gotham-Book-Regular.eot?#iefix')
+      format('embedded-opentype'),
+    url('../fonts/Gotham-Book/Gotham-Book-Regular.woff2') format('woff2'),
+    url('../fonts/Gotham-Book/Gotham-Book-Regular.woff') format('woff');
   font-weight: 400;
   font-style: normal;
 }
 /* Gotham Light */
 @font-face {
-  font-family: "Gotham Light";
-  src: url("fonts/Gotham-Light/Gotham-Light.eot");
-  src: url("fonts/Gotham-Light/Gotham-Light.eot?#iefix") format("embedded-opentype"), url("fonts/Gotham-Light/Gotham-Light.woff2") format("woff2"), url("fonts/Gotham-Light/Gotham-Light.woff") format("woff");
+  font-family: 'Gotham Light';
+  src: url('../fonts/Gotham-Light/Gotham-Light.eot');
+  src: url('../fonts/Gotham-Light/Gotham-Light.eot?#iefix')
+      format('embedded-opentype'),
+    url('../fonts/Gotham-Light/Gotham-Light.woff2') format('woff2'),
+    url('../fonts/Gotham-Light/Gotham-Light.woff') format('woff');
   font-weight: 400;
   font-style: normal;
 }
@@ -45,7 +61,7 @@ body {
 }
 
 #es-loreal.es-loreal {
-  font-family: "Gotham Book", sans-serif;
+  font-family: 'Gotham Book', sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.2;
@@ -63,7 +79,7 @@ body {
 #es-loreal.es-loreal h3,
 #es-loreal.es-loreal h4,
 #es-loreal.es-loreal h5 {
-  font-family: "Gotham Book", sans-serif;
+  font-family: 'Gotham Book', sans-serif;
   color: #111;
 }
 #es-loreal.es-loreal .es-kv__img {
@@ -92,19 +108,19 @@ body {
   font-weight: inherit;
   margin-bottom: 20px;
   text-align: center;
-  font-family: "Gotham Book", sans-serif;
+  font-family: 'Gotham Book', sans-serif;
   font-weight: 400;
   font-size: 29px;
   text-transform: uppercase;
 }
 #es-loreal.es-loreal .es-kv__title--red {
   display: block;
-  font-family: "Gotham Black";
+  font-family: 'Gotham Black';
   font-size: 56px;
   color: #eb0812;
 }
 #es-loreal.es-loreal .es-kv__title--strong {
-  font-family: "Gotham Bold";
+  font-family: 'Gotham Bold';
   font-weight: 700;
 }
 #es-loreal.es-loreal .es-kv__subtitle {
@@ -128,7 +144,7 @@ body {
 }
 #es-loreal.es-loreal .es-kv__title-group {
   -webkit-animation: slidedown 0.3s ease-in-out;
-          animation: slidedown 0.3s ease-in-out;
+  animation: slidedown 0.3s ease-in-out;
 }
 #es-loreal.es-loreal .es-info {
   padding: 50px 0 0;
@@ -148,12 +164,12 @@ body {
   margin-bottom: 60px;
   font-size: 25px;
   color: #fff;
-  font-family: "Gotham Light", sans-serif;
+  font-family: 'Gotham Light', sans-serif;
   font-weight: normal;
   color: #fff;
 }
 #es-loreal.es-loreal .es-info__item {
-  font-family: "Gotham Light", sans-serif;
+  font-family: 'Gotham Light', sans-serif;
   position: relative;
   font-size: 20px;
   color: #fff;
@@ -169,7 +185,7 @@ body {
   color: inherit;
   font-family: inherit;
   font-weight: inherit;
-  font-family: "Gotham Bold", sans-serif;
+  font-family: 'Gotham Bold', sans-serif;
   margin: auto;
   position: absolute;
   top: -60px;
@@ -197,11 +213,11 @@ body {
   margin-bottom: 60px;
   text-align: center;
   font-size: 25px;
-  font-family: "Gotham Light", sans-serif;
+  font-family: 'Gotham Light', sans-serif;
   font-weight: normal;
 }
 #es-loreal.es-loreal .es-ingredients__title--bold {
-  font-family: "Gotham Bold";
+  font-family: 'Gotham Bold';
   font-weight: bold;
 }
 #es-loreal.es-loreal .es-ingredients__image {
@@ -222,7 +238,7 @@ body {
   font-weight: inherit;
   padding-bottom: 10px;
   font-size: 18px;
-  font-family: "Gotham Bold", sans-serif;
+  font-family: 'Gotham Bold', sans-serif;
   border-bottom: 4px solid #eb0812;
   text-transform: uppercase;
 }
@@ -244,7 +260,7 @@ body {
   margin-bottom: 60px;
   font-size: 22px;
   color: #fff;
-  font-family: "Gotham Light", sans-serif;
+  font-family: 'Gotham Light', sans-serif;
   font-weight: normal;
   color: #fff;
 }
@@ -298,12 +314,12 @@ body {
   margin-top: 20px;
   margin-bottom: 40px;
   text-transform: uppercase;
-  font-family: "Gohtam Bold", sans-serif;
+  font-family: 'Gohtam Bold', sans-serif;
   font-weight: bold;
   text-align: center;
 }
 #es-loreal.es-loreal .es-feedback__image-title--normal {
-  font-family: "Gohtam Book", sans-serif;
+  font-family: 'Gohtam Book', sans-serif;
   text-transform: none;
   font-weight: normal;
   line-height: 1.4;
@@ -320,7 +336,7 @@ body {
   text-align: center;
 }
 #es-loreal.es-loreal .es-feedback__title strong {
-  font-family: "Gotham Bold";
+  font-family: 'Gotham Bold';
   font-weight: bold;
 }
 #es-loreal.es-loreal .es-feedback__items-group {
@@ -335,13 +351,13 @@ body {
   padding-bottom: 70px;
 }
 #es-loreal.es-loreal .es-feedback__item::after {
-  content: url("./images/bullet.png");
+  content: url('./images/bullet.png');
   position: absolute;
   left: -26px;
   top: 0px;
 }
 #es-loreal.es-loreal .es-feedback__item::before {
-  content: "";
+  content: '';
   position: absolute;
   left: -18px;
   border-left: 4px solid #d20216;
@@ -366,7 +382,7 @@ body {
   color: inherit;
   font-family: inherit;
   font-weight: inherit;
-  font-family: "Gotham Bold", sans-serif;
+  font-family: 'Gotham Bold', sans-serif;
   margin-bottom: 10px;
   text-transform: uppercase;
 }
@@ -398,7 +414,7 @@ body {
   text-align: center;
 }
 #es-loreal.es-loreal .es-slider__title--uppercase {
-  font-family: "Gotham Bold", sans-serif;
+  font-family: 'Gotham Bold', sans-serif;
   text-transform: uppercase;
 }
 #es-loreal.es-loreal .es-slider__wrapper {
@@ -477,7 +493,7 @@ body {
   margin: 0 auto;
   width: 100%;
   -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
 }
 #es-loreal.es-loreal .es-video__play-button {
   position: absolute;
@@ -511,7 +527,7 @@ body {
   position: relative;
 }
 #es-loreal.es-loreal .es-cross__wrapper-group::after {
-  content: "";
+  content: '';
   width: 100%;
   border-bottom: solid 4px #eb0812;
   border-radius: 2px;
@@ -619,8 +635,8 @@ body {
 }
 #es-loreal.es-loreal .es-cross__packshot--1::before {
   position: absolute;
-  content: "1";
-  font-family: "Gotham Bold", sans-serif;
+  content: '1';
+  font-family: 'Gotham Bold', sans-serif;
   color: #fbc2c4;
   font-size: 222px;
   top: 50px;
@@ -630,8 +646,8 @@ body {
 }
 #es-loreal.es-loreal .es-cross__packshot--2::before {
   position: absolute;
-  content: "2";
-  font-family: "Gotham Bold", sans-serif;
+  content: '2';
+  font-family: 'Gotham Bold', sans-serif;
   color: #f9999d;
   font-size: 222px;
   top: 50px;
@@ -641,8 +657,8 @@ body {
 }
 #es-loreal.es-loreal .es-cross__packshot--3::before {
   position: absolute;
-  content: "3";
-  font-family: "Gotham Bold", sans-serif;
+  content: '3';
+  font-family: 'Gotham Bold', sans-serif;
   color: #f5666c;
   font-size: 222px;
   top: -100px;
@@ -652,8 +668,8 @@ body {
 }
 #es-loreal.es-loreal .es-cross__packshot--5::before {
   position: absolute;
-  content: "2";
-  font-family: "Gotham Bold", sans-serif;
+  content: '2';
+  font-family: 'Gotham Bold', sans-serif;
   color: #f9999d;
   font-size: 222px;
   top: -100px;
@@ -663,8 +679,8 @@ body {
 }
 #es-loreal.es-loreal .es-cross__packshot--6::before {
   position: absolute;
-  content: "3";
-  font-family: "Gotham Bold", sans-serif;
+  content: '3';
+  font-family: 'Gotham Bold', sans-serif;
   color: #f5666c;
   font-size: 222px;
   top: -100px;
@@ -698,9 +714,9 @@ body {
     gap: 20px;
   }
   #es-loreal.es-loreal .es-info__title,
-#es-loreal.es-loreal .es-ingredients__title,
-#es-loreal.es-loreal .es-reasons__title,
-#es-loreal.es-loreal .es-slider__title {
+  #es-loreal.es-loreal .es-ingredients__title,
+  #es-loreal.es-loreal .es-reasons__title,
+  #es-loreal.es-loreal .es-slider__title {
     padding-left: 5px;
     padding-right: 5px;
     font-size: 28px;
@@ -719,9 +735,9 @@ body {
 }
 @media screen and (min-width: 600px) {
   #es-loreal.es-loreal .es-info__title,
-#es-loreal.es-loreal .es-ingredients__title,
-#es-loreal.es-loreal .es-reasons__title,
-#es-loreal.es-loreal .es-slider__title {
+  #es-loreal.es-loreal .es-ingredients__title,
+  #es-loreal.es-loreal .es-reasons__title,
+  #es-loreal.es-loreal .es-slider__title {
     padding-left: 5px;
     padding-right: 5px;
     font-size: 30px;
@@ -785,7 +801,8 @@ body {
     left: -2%;
     top: 16%;
   }
-  #es-loreal.es-loreal .es-kv__title, #es-loreal.es-loreal .es-kv__subtitle {
+  #es-loreal.es-loreal .es-kv__title,
+  #es-loreal.es-loreal .es-kv__subtitle {
     padding-left: 20px;
     text-align: left;
   }
@@ -916,17 +933,17 @@ body {
 }
 @media screen and (min-width: 769px) {
   #es-loreal.es-loreal .es-slider .swiper-button-next,
-#es-loreal.es-loreal .es-slider .swiper-container-rtl .swiper-button-prev {
+  #es-loreal.es-loreal .es-slider .swiper-container-rtl .swiper-button-prev {
     right: -5px;
     left: auto;
   }
   #es-loreal.es-loreal .es-slider .es-slider .swiper-button-prev,
-#es-loreal.es-loreal .es-slider .swiper-container-rtl .swiper-button-next {
+  #es-loreal.es-loreal .es-slider .swiper-container-rtl .swiper-button-next {
     left: -5px;
     right: auto;
   }
   #es-loreal.es-loreal .es-slider .swiper-button-next,
-#es-loreal.es-loreal .es-slider .swiper-button-prev {
+  #es-loreal.es-loreal .es-slider .swiper-button-prev {
     width: 40px;
   }
   #es-loreal.es-loreal .es-info__number {
@@ -1155,4 +1172,4 @@ body {
   #es-loreal.es-loreal .es-slider .slick-button-prev {
     left: -44px;
   }
-}/*# sourceMappingURL=style.css.map */
+} /*# sourceMappingURL=style.css.map */
